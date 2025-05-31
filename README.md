@@ -1,5 +1,9 @@
 # 🧠 Meta-Analysis: Decentralized Control, Dynamic Planning, and Localization in Autonomous Drone Systems
 
+<p align="center">
+  <img src="drone-swarm.jpg" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This independently conducted meta-analysis explores state-of-the-art methods in **autonomous drone systems**. It focuses on three critical subsystems:
 1. **Path Planning Algorithms** – including classical and biologically inspired approaches.
